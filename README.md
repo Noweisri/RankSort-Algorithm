@@ -1,4 +1,4 @@
-# RankSort-Algorithm
+# RankSort-Algorithm in parallel
 PLEASE NOTE THAT THIS FILE MAY NOT WORK PROPERLY WITHOUT USING THE NVIDIA CUDA TOOLKIT.
 
 Rank sort algorithm is a sorting algorithm that sorts a list of elements by assigning each element a rank, such that the element with the rank 1 is the smallest element, the element with the rank 2 is the second smallest element, and so on.
